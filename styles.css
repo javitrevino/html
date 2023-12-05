@@ -1,0 +1,37 @@
+html, main, body{
+    font-family: "Poppins";
+}
+
+table {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    border: 1px solid #ccc;
+   
+}
+
+th{
+    padding: 10px;
+}
+
+h1{
+    text-transform: uppercase;
+    color: #000;
+    font-size: 25px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+#table-headers{
+ 
+font-size: 18px;
+font-weight: 600;
+
+}
+
+/* menu styles */
+
+
+menu ul {
+    list-style: none;
+    text-transform: uppercase;
+}
+
